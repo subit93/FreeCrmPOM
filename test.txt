@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5CDB-69EC
+
+ Directory of C:\Users\Chiku\Desktop\my Project
+
+03-Jun-20  12:17 AM    <DIR>          .
+03-Jun-20  12:17 AM    <DIR>          ..
+03-Jun-20  12:17 AM    <DIR>          .git
+03-Jun-20  12:17 AM                 0 test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  168,977,928,192 bytes free
